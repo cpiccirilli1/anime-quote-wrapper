@@ -2,6 +2,7 @@ import animequotes1
 
 """
 The only class is AQ and it has 2 parameters. The first takes 
+boolean for error checking "verbose" and the second is for custom headers "headers"
 """
 
 a = AQ(True)
